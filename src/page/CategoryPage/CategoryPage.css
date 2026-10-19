@@ -1,0 +1,11 @@
+.category-product .products {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: start;
+  padding: 10px 0;
+}
+
+.top-slide {
+  padding: 50px 0;
+}
